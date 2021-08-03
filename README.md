@@ -28,7 +28,7 @@ A query that can provide more insight into the analysis is the query shown below
 
 ![retiring_by_dept.png](retiring_by_dept.png)
 
-A second, additional query that can also help provide more insight into the analysis is the query shown below, which tells us the department name of the employees that are eligible to be mentors to newly hires. With this query, we can compare the departments of employees eligible to be mentors to the departments that have employees retiring. With this information, the company can better gage if how to distribute the number of mentors by department based on need.
+A second, additional query that can also help provide more insight into the analysis is the query shown below, which tells us the department name of the employees that are eligible to be mentors to newly hires. With this query, we can compare the departments of employees eligible to be mentors to the departments that have employees retiring. With this information, the company can better gauge how to distribute the number of mentors by department based on need.
 
 ![mentors_by_dept.png](mentors_by_dept.png)
   
